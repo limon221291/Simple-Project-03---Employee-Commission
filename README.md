@@ -13,7 +13,7 @@ the output.
 Total wage = (commission rate * totalSales) + (workingHours * basicWage)
 
 
-Sales Volume:                 Commission:
-$1.00 - $99.99                  5%
-$100.00 - $299.99               10%
->= $300.00                      15%
+  Sales Volume:                 Commission:
+* $1.00 - $99.99                  5%
+* $100.00 - $299.99               10%
+* >= $300.00                      15%
